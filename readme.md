@@ -12,3 +12,6 @@
 # Required fonts
 - Exodus
 - RA花蓮華
+
+# 注意事項
+ - 再利用・再配布は禁止です。
